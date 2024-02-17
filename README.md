@@ -21,6 +21,6 @@
       Stats
   </h1>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=ZYuC-2002&rank_icon=github&theme=tokyonight" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ZYuC-2002&rank_icon=github&theme=transparent" alt="Stats" />
   </div>  
 </div>
