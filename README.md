@@ -7,5 +7,9 @@
 </div>
 
 <div>
+  <a href="https://github.com/ZYuC-2002"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+</div>
+
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZYuC-2002" alt="Use Languages" />
 </div>
