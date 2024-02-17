@@ -9,7 +9,6 @@
 <div>
   <a href="https://github.com/ZYuC-2002">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=ZYuC-2002&show_icons=true" />
   </a>
 </div>
 
@@ -22,6 +21,6 @@
       Stats
   </h1>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=ZYuC-2002&rank_icon=github" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ZYuC-2002&rank_icon=github&theme=radical" alt="Stats" />
   </div>  
 </div>
