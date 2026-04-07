@@ -13,7 +13,7 @@
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZYuC-2002" alt="Use Languages" />
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZYuC-2002)
 </div>
 
 <div>
